@@ -13,5 +13,6 @@ class Manufacturer extends Model
     public function laptop(): HasMany
     {
         return $this->hasMany(Laptop::class);
+        //i am siman
     }
 }
