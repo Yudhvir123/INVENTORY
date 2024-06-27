@@ -9,3 +9,4 @@ class IpPhone extends Model
 {
     use HasFactory;
    
+}
